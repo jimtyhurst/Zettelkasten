@@ -1,0 +1,5 @@
+- Documentation: https://docs.logseq.com/
+- Downloads: https://github.com/logseq/logseq/releases
+- Source code: https://github.com/logseq/logseq/
+- Publishing logseq: https://github.com/dustinlacewell/logseq-guide#publishing-logseq
+-
